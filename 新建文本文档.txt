@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "automationName": "Appium",
+  "platformVersion": "5.1.1",
+  "appPackage": "com.ss.android.ugc.aweme",
+  "appActivity": "com.ss.android.ugc.aweme.main.MainActivity",
+  "noReset": "True",
+  "deviceName": "Emulator"
+}
